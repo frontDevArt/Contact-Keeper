@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://frontdevart:Giftfifa000@contactkeeper-3ueha.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
